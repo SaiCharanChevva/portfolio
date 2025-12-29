@@ -12,15 +12,15 @@ export default function HeroSection()
                         <br/>
                         Chevva
                     </h1>
-                    <p className = "here--section-description">
-                        I'm a Software Engineer with experience across backend development, full-stack engineering, and applied machine learning. I have designed and deployed scalable systems using AWS, Java, Python, Node.js, and modern web technologies, while also building and optimizing ML models for real-world applications.
-                        <br></br>
-                        <br></br>
-                        My work includes developing high-performance REST APIs, automating cloud workflows, integrating LLM-based components, and implementing distributed data pipelines. I also have experience improving system reliability, strengthening application security, and contributing to end-to-end product development across cross-functional teams.
-                        <br></br>
-                        <br></br>
-                        I enjoy solving complex technical problems, learning new technologies, and building reliable, scalable solutions that deliver meaningful impact.
-                    </p>
+                    <p className="here--section-description">
+    I'm a Software Engineer and Data Engineer with a passion for building scalable data systems and applying machine learning to solve real-world problems. My experience spans backend development with Java and Spring Boot, data pipeline engineering with Snowflake and Kafka, and full-stack development using Python, JavaScript, and modern cloud technologies.
+    <br></br>
+    <br></br>
+    At Hitachi Vantara, I designed and deployed high-throughput messaging systems processing over 100,000 messages daily, engineered data pipelines that improved report generation by 35%, and led automation initiatives that reduced manual workload by 50%. I thrive at the intersection of data engineering and software development—whether it's optimizing distributed systems, building ETL workflows, or creating ML-powered applications.
+    <br></br>
+    <br></br>
+    I'm particularly drawn to projects involving data processing, analytics, and intelligent automation. From building meeting summarizers with NLP models to developing heart disease prediction systems with neural networks, I enjoy transforming raw data into actionable insights. I'm always eager to learn emerging technologies, tackle complex technical challenges, and deliver solutions that create meaningful impact through data-driven innovation.
+</p>
                 </div>
                 <a href="https://www.linkedin.com/in/sai-charan-chevva/" class="btn btn-primary">Let's Connect!</a>
             </div>
