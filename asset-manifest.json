@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1ec9c7ae.css",
+    "main.js": "/Portfolio/static/js/main.112f62bb.js",
+    "static/media/vjs-logo.png": "/Portfolio/static/media/vjs-logo.1b67371da2241fffcbf3.png",
+    "static/media/hv-logo.jpg": "/Portfolio/static/media/hv-logo.75a01f16c4aab6d44681.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.1ec9c7ae.css.map": "/Portfolio/static/css/main.1ec9c7ae.css.map",
+    "main.112f62bb.js.map": "/Portfolio/static/js/main.112f62bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec9c7ae.css",
+    "static/js/main.112f62bb.js"
+  ]
+}
