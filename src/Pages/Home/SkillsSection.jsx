@@ -8,7 +8,6 @@ const skillsData = {
     { name: "C++", logo: "./img/c++.jpg" },
     { name: "Spring", logo: "./img/spring.jpg" },
     { name: "SpringBoot", logo: "./img/spring-boot.png" },
-    { name: "Hibernate", logo: "./img/hibernate.png" },
   ],
   "Cloud and Database Systems": [
     { name: "Amazon Web Services", logo: "./img/aws.png" },
@@ -21,7 +20,7 @@ const skillsData = {
     { name: "MySQL", logo: "./img/mysql.png" },
     { name: "PostgreSQL", logo: "./img/postgresql.png" },
     { name: "MongoDB", logo: "./img/mongodb.png" },
-    { name: "Cassandra", logo: "./img/cassandra.png" },
+    { name: "SnowFlake", logo: "./img/snowflakelogo.png" }
   ],
   "Web Technologies": [
     { name: "HTML", logo: "./img/html5.png" },
@@ -30,7 +29,6 @@ const skillsData = {
     { name: "TypeScript", logo: "./img/typescript.png" },
     { name: "React.js", logo: "./img/react.png" },
     { name: "Node.js", logo: "./img/node.png" },
-    { name: "Express.js", logo: "./img/express.png" },
     { name: "PostMan", logo: "./img/postman.png" },
     { name: "Apache Tomcat", logo: "./img/tomcat.png" },
   ],
@@ -41,7 +39,6 @@ const skillsData = {
     { name: "Git", logo: "./img/git.png" },
     { name: "Jira", logo: "./img/jira.png" },
     { name: "Selenium", logo: "./img/selenium.png" },
-    { name: "Puppeteer", logo: "./img/puppeteer.png" },
     { name: "JUnit", logo: "./img/junit.jpeg" },
     { name: "Mockito", logo: "./img/mockito.jpeg" },
     { name: "TestNG", logo: "./img/testng.jpg" },

@@ -8,7 +8,7 @@ export default function MyPortfolio() {
                     <h2 className="section--heading">RECENT PROJECTS</h2>
                 </div>
                 <div>
-                    <a href="https://github.com/BhargaviChevva18" className="btn btn-primary">View my Github</a>
+                    <a href="https://github.com/SaiCharanChevva" className="btn btn-primary">View my Github</a>
                 </div>
             </div>
             <div className="portfolio--section--container">

@@ -8,7 +8,7 @@ export default function HeroSection()
                         Hi! I'm 
                     </p>
                     <h1 className="hero--section--title">
-                        <span className ="hero--section-title--color">Bhargavi </span>{" "}
+                        <span className ="hero--section-title--color">Sai Charan Chevva </span>{" "}
                         <br/>
                         Chevva
                     </h1>
@@ -22,7 +22,7 @@ export default function HeroSection()
                         I enjoy solving complex technical problems, learning new technologies, and building reliable, scalable solutions that deliver meaningful impact.
                     </p>
                 </div>
-                <a href="https://www.linkedin.com/in/bhargavi-chevva/" class="btn btn-primary">Let's Connect!</a>
+                <a href="https://www.linkedin.com/in/sai-charan-chevva/" class="btn btn-primary">Let's Connect!</a>
             </div>
             <div className="hero--section--img">
                 <img src="./img/bh.png" alt="Hero Section" style={{ borderRadius: '50%', width: '50%', height: '50%', boxShadow: '10px 10px 20px rgba(0, 0, 0, 0.5)'}}/>
