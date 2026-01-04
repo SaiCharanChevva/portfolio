@@ -23,7 +23,7 @@ export default function Work() {
                             >
                                 <h3 className=".section--title" >{element.title}</h3>
                                 <h5 className=".sub--title" >{element.location}</h5>
-                                <h4 id=".hero--section--content">{element.description.split("\n").map((line, index) => (
+                                <h4 id=".hero--section--content">{(element.description || '').toString().split("\n").map((line, index) => (
                                     <p key={index}>{line}</p>
                                     ))}
                                 </h4>
